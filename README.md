@@ -13,10 +13,10 @@ The website clone includes the following features:
 - Three main sections highlighting key features of the website
 - Footer with links to social media profiles and other resources
 - Installation Instructions
-- To clone and run this project, follow these steps:
+### To clone and run this project, follow these steps:
 
-Clone the repository to your local machine using Git or download the ZIP file.
-Open the index.html file in a web browser to view the website.
+- Clone the repository to your local machine using Git or download the ZIP file.
+- Open the index.html file in a web browser to view the website.
 ### Usage
 You can use the cloned website to explore the functionality and design of the original Usability Hub website. Note that this is a static website and does not include any backend functionality or dynamic content.
 
