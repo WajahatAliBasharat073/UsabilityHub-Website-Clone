@@ -8,12 +8,12 @@ The project was built using HTML and CSS, and does not require any additional li
 ### Features 
 The website clone includes the following features:
 
-Navigation menu with dropdowns
-Hero section with prominent CTA button
-Three main sections highlighting key features of the website
-Footer with links to social media profiles and other resources
-Installation Instructions
-To clone and run this project, follow these steps:
+- Navigation menu with dropdowns
+- Hero section with prominent CTA button
+- Three main sections highlighting key features of the website
+- Footer with links to social media profiles and other resources
+- Installation Instructions
+- To clone and run this project, follow these steps:
 
 Clone the repository to your local machine using Git or download the ZIP file.
 Open the index.html file in a web browser to view the website.
