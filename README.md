@@ -1,5 +1,5 @@
 # UsabilityHub-Website-Clone
- ## Usability Hub Website Clone
+ ## Usability Hub Website Clone using html and css
 This project is a clone of the Usability Hub website, which offers various tools and resources for user experience testing and research. The project was created using HTML and CSS, and aims to replicate the layout, content, and design elements of the original website.
 
 ### Technologies Used 
