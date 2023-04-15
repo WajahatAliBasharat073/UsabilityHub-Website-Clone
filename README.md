@@ -20,5 +20,5 @@ Open the index.html file in a web browser to view the website.
 ### Usage
 You can use the cloned website to explore the functionality and design of the original Usability Hub website. Note that this is a static website and does not include any backend functionality or dynamic content.
 
-###Credits
+### Credits
 The original Usability Hub website was used as a reference for this project. No code was copied or directly adapted from the original website
